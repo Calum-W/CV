@@ -2,7 +2,7 @@
 
 [Skills](#skills) | [Projects](#projects) | [Experience](#experience) | [Education](#education) | [Interests](#interests) | [LinkedIn](https://www.linkedin.com/in/calum-widdall-a64678157/)
 
-I'm currently studying at Makers Academy, a highly-selective programming bootcamp that produces work-ready software developers. During the 16-week course, I have learned the core concepts of programming and strategies to rapidly pick up new langauges and frameworks.
+I'm a graduate of Makers Academy, a highly-selective programming bootcamp that produces work-ready software developers. During the 16-week course, I have learned the core concepts of programming and strategies to rapidly pick up new langauges and frameworks.
 
 Makers Academy has also engrained in me the importance of best coding practices, so I'm looking to work in an environment that follows these principles and values good craftmanship in code. Ideally, an ambitious company that offers exciting challenges as well as support, and I can grow to become a key member of the team.
 
