@@ -24,7 +24,7 @@ Once promoted to head of English development at EY Japan, I changed my team's sy
 ## Projects
 Name | Description | Technologies | Testing Technologies
 ---| --- | --- | --- |
-[Scrambled Jpeggs](https://github.com/Calum-W/Scrambled-Jpeggs) | An iOS picture puzzle game (group) | Swift, Xcode | Swift  
+[Scrambled Jpeggs](https://github.com/Calum-W/Scrambled-Jpeggs) | An iOS picture puzzle game (group) | Swift, Xcode | XCT  
 [CHAINge](https://github.com/Calum-W/CHAINge) | A blockchain voting app (group) | Solidity, Javascript, NodeJS, Ganache, Bootstrap | Truffle 
 [NomNom](https://github.com/Calum-W/nomnom) | A recreation of Yelp (group) | Ruby on Rails, PostgreSQL, Devise | Rspec
 [Bowling challenge](https://github.com/Calum-W/bowling-challenge)  | A score tracker for ten-pin bowling built as a weekend challenge (solo) | Javascript| Jasmine
