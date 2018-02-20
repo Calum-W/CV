@@ -2,7 +2,7 @@
 
 [Skills](#skills) | [Projects](#projects) | [Experience](#experience) | [Education](#education) | [Interests](#interests) | [LinkedIn](https://www.linkedin.com/in/calum-widdall-a64678157/)
 
-I'm a graduate of Makers Academy, a highly-selective programming bootcamp that produces work-ready software developers. During the 16-week course, I have learned the core concepts of programming and strategies to rapidly pick up new langauges and frameworks.
+I'm a graduate of Makers Academy, a highly-selective programming bootcamp that produces work-ready software developers. During the 16-week course, I have learned the core concepts of programming and strategies to rapidly pick up new languages and frameworks.
 
 Makers Academy has also engrained in me the importance of best coding practices, so I'm looking to work in an environment that follows these principles and values good craftmanship in code. Ideally, an ambitious company that offers exciting challenges as well as support, and I can grow to become a key member of the team.
 
@@ -36,9 +36,9 @@ Name | Description | Technologies | Testing Technologies
 [**Ernst & Young**](http://www.ey.com/jp/en/home) (Mar 2015 to Sep 2017)    
 Role: Head of English development and overseas training coordinator
 
-Responsibilities: Leading a team of three trainers across five national offices in helping Japanese employees conduct business in English. I met regularly with department leaders and developed seminars and courses tailoreed to their requests. My secondary role was coordinating all overseas training and managing an annual budget of approximately £150,000.
+Responsibilities: Leading a team of three to create, provide and oversee the company's English training based on requirements discussed in quarterly meetings with each department leader. My secondary role was coordinating all overseas training and managing an annual budget of approximately £150,000.
 
-[**Coco Juku**](http://www.cocojuku.jp/) (May 2012 - Mar 2015)   
+[**Coco Juku**](http://www.cocojuku.jp/) (May 2012 - Mar 2015) 
 Role: English teacher / Teacher trainer
 
 Responsibilities: Teaching business and medical English to clients in private and small group settings. After a year I began conducting teacher training and assisting with curriculum development while continuing teaching lessons.
