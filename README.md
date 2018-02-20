@@ -4,7 +4,7 @@
 
 I'm a graduate of Makers Academy, a highly-selective programming bootcamp that produces work-ready software developers. During the 16-week course, I have learned the core concepts of programming and strategies to rapidly pick up new languages and frameworks.
 
-Makers Academy has also engrained in me the importance of best coding practices, so I'm looking to work in an environment that follows these principles and values good craftmanship in code. Ideally, an ambitious company that offers exciting challenges as well as support, and I can grow to become a key member of the team.
+Makers Academy has also engrained in me the importance of best coding practices, so I'm looking to work in an environment that follows these principles and values quality craftmanship in code. Ideally, an ambitious company that offers exciting challenges as well as support, where I can grow to become a key member of the team.
 
 
 ## Skills
