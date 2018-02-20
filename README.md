@@ -18,7 +18,7 @@ Through delivering thousands of group classes and one-to-one lessons, I have fin
 #### Fast learner
 During twelve weeks at Makers' Academy, I went from knowing very little about programming to building and testing whole projects in a variety of languages. This gave me the confidence to suggest learning completely unfamiliar languages to build each of my final group projects in.
 
-Once promoted to head of English development at EY Tokyo, I changed my team's system from template business English lessons to an adaptive approach in which we tailored our own lessons to each employee's individual needs, which often involved discussing the intricacies of tax reforms or inheritance laws, or role-playing current clients or financial authorities. Cramming the financial knowledge required to deliver each of these sessions effectively was challenging, but as a result, demand for English lessons rocketed and I was forced to impose quotas on each department.
+Once promoted to head of English development at EY Japan, I changed my team's system from template business English lessons to an adaptive approach in which we tailored our own lessons to each employee's individual needs, which often involved discussing the intricacies of tax reforms or inheritance laws, or role-playing current clients or financial authorities. Cramming the financial knowledge required to deliver each of these sessions effectively was challenging, but as a result, demand for English lessons rocketed and I was forced to impose quotas on each department.
 ***
 
 ## Projects
