@@ -35,14 +35,17 @@ Name | Description | Technologies | Testing Technologies
 
 [**Ernst & Young**](http://www.ey.com/jp/en/home) (Mar 2015 to Sep 2017)    
 Role: Head of English development and overseas training coordinator
+
 Responsibilities: Leading a team of three trainers across five national offices in helping Japanese employees conduct business in English. I met regularly with department leaders and developed seminars and courses tailoreed to their requests. My secondary role was coordinating all overseas training and managing an annual budget of approximately £150,000.
 
 [**Coco Juku**](http://www.cocojuku.jp/) (May 2012 - Mar 2015)   
 Role: English teacher / Teacher trainer
+
 Responsibilities: Teaching business and medical English to clients in private and small group settings. After a year I began conducting teacher training and assisting with curriculum development while continuing teaching lessons.
 
 [**Kid Castle**](http://www.kidcastle.com.tw/en/en.html) (October 2010 to May 2012)   
 Role: Kids' English teacher
+
 Responsibilities: Teaching English to classes of 4-20 Chinese children aged 3-12. In my first full year I was awarded 'Teacher of the Year' based on parent reviews and management assessments of hundreds of teachers.
 ***
 
