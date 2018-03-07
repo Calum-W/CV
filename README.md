@@ -70,6 +70,6 @@ Responsibilities: Teaching English to classes of 4-20 Chinese children aged 3-12
 ***
 
 ## Interests
-- My interest in **photography** began as a hobby, but as my instagram following grew I began to receive commercial offers and have gone on to complete assignments for brands such as Flipbelt, Manulife and Instagram. [(Instagram profile)](https://www.instagram.com/acowinjapan/)
+- My interest in **photography** began as a hobby, but as my instagram following grew I began to receive commercial offers and have gone on to complete assignments for brands such as Flipbelt, Manulife and Instagram. [(Instagram profile)](https://www.instagram.com/_calw_/?hl=en)
 - Another passion I've been lucky enough to monetise is **writing**, having freelanced regularly for outlets such as Time Out and the Japanese National Tourism Organisation. [(Portfolio)](https://www.clippings.me/users/calwiddall)
 - As well as sci-fi novels, I love **reading** non-fiction books related to my life, such as the histories of cities I lived in, or linguistics when I was teaching English and learning Mandarin/Japanese. Since discovering programming, I've devoured a stack of books on tech, which have helped me understand the industry and kept me sane on my 90-minute commute to Makers Academy.
